@@ -1,0 +1,16 @@
+baseURL = "https://juansemueve.com/"
+languageCode = "es-co"
+title = "Juan Se Mueve"
+theme = "ticky_tacky_dark"
+disableKinds = ["taxonomy", "taxonomyTerm"]
+enableEmoji = true
+
+[params]
+    favicon = "favicon.ico"
+    description = "The demonstration page for the Hugo Ticky Tacky Dark theme."
+    images = ["img/apocalipsis-header.jpg", "img/golden_hour_r3-header.jpg"]
+    headername = "juansemueve"
+
+[Author]
+    name = "Juan El Que Anda En bici"
+    email = "@juansemueve"
